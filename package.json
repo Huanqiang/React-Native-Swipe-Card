@@ -1,0 +1,20 @@
+{
+  "name": "react-native-swipe-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Huanqiang/React-Native-Swipe-Card.git"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "react": "16.3.1",
+    "react-native": "~0.55.2"
+  },
+  "author": "huanqiang",
+  "license": "ISC"
+}
